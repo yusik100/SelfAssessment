@@ -1,13 +1,18 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
+  - Separation of concerns
+  - Inversion of Control
+  - Dependency Injection
+  - GoF Creational
+  - GoF Structural
+  - GoF Behavioral
   - GRASP
   - SOLID
-  - GoF patterns
   - CQS
+  - Modularity
+  - Subsystems
+  - Directories
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
