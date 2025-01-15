@@ -4,8 +4,8 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm k
+  - Syntax h
   - Semantics
   - Abstraction
   - Paradigm
@@ -14,7 +14,7 @@
   - Programming language
   - Contract
   - Module
-  - Library
+  - Library h
   - Package
   - Component
   - Framework
@@ -23,7 +23,7 @@
   - Object code
   - Machine code
   - Microcode
-  - Software engineering
+  - Software engineering h
   - Decomposition
   - Control flow
   - Data flow
@@ -34,13 +34,13 @@
 - Syntax and concepts
   - Value
   - Identifier
-  - Variable
+  - Variable h
   - Constant
   - Scalar
   - Literal
   - Expression
   - Heap
-  - Function
+  - Function h
   - Procedure
   - Method
   - Class
@@ -51,7 +51,7 @@
   - Lexical scope
   - Code block
   - Conditions
-  - Loops
+  - Loops h
   - Assignment
   - Regular expression
   - Interface
@@ -82,8 +82,8 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument
-  - Parameter
+  - Argument k
+  - Parameter k
   - Pure function
   - Lambda expression
   - Side effects
@@ -105,7 +105,7 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
+  - Array h
   - Structure
   - Record
   - Enum
@@ -138,7 +138,7 @@
   - IPv4
   - IPv6
   - NAT
-  - URL
+  - URL k
   - URN
   - URI
 - Process and tools
@@ -157,7 +157,7 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger h
   - Tracing
   - Garbage collection
   - Refactoring
@@ -209,16 +209,16 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
+  - Drivers h
   - Kernel
   - Ring
   - Virtual memory
-  - File system
-  - Linux
+  - File system h
+  - Linux k
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS k
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 h
   - W3C
   - ODMG
