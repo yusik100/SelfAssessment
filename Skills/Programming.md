@@ -4,14 +4,14 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm k
-  - Syntax h
+  - Algorithm u
+  - Syntax u
   - Semantics
   - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Paradigm h
+  - Programm u
+  - Programming paradigm h
+  - Programming language u
   - Contract
   - Module
   - Library h
@@ -21,7 +21,7 @@
   - Platform
   - Source code
   - Object code
-  - Machine code
+  - Machine code h
   - Microcode
   - Software engineering h
   - Decomposition
@@ -32,26 +32,26 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable h
-  - Constant
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
   - Scalar
-  - Literal
+  - Literal u
   - Expression
   - Heap
-  - Function h
+  - Function u
   - Procedure
-  - Method
+  - Method u
   - Class
   - Prototype
   - Event
-  - Type
+  - Type u
   - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops h
+  - Lexical scope k
+  - Code block u
+  - Conditions u
+  - Loops u
   - Assignment
   - Regular expression
   - Interface
@@ -59,14 +59,14 @@
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
+  - Camel case u
+  - Snake case u
   - Kebab case
-  - Trailing commas
+  - Trailing commas h
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
+  - Primitive types u
   - Reference types
   - Type systems
   - Strong typing
@@ -87,13 +87,13 @@
   - Pure function
   - Lambda expression
   - Side effects
-  - Closure
+  - Closure k
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion 
   - Tail call optimisation
-  - Callback
+  - Callback h
   - Listener
   - Composition
   - Pipe
@@ -105,15 +105,15 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array h
-  - Structure
+  - Array u
+  - Structure h
   - Record
   - Enum
   - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
+  - Object u
+  - Collection h
+  - Set h
+  - Hash table h
   - Linked list
   - Doubly list
   - Unrolled list
@@ -123,7 +123,7 @@
   - Deque
   - Tree
   - Graph
-  - Iterator
+  - Iterator u
   - Mutable state
   - Immutable state
   - Serialization
@@ -142,7 +142,7 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler u
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -157,15 +157,15 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger h
+  - Debugger u
   - Tracing
   - Garbage collection
   - Refactoring
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git u
+  - Github u
   - Docker
   - Kubernetes
   - GCC
@@ -215,14 +215,14 @@
   - Virtual memory
   - File system h
   - Linux k
-  - Unix
+  - Unix h
   - BSD
   - MacOS k
   - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII h
   - Escape sequence
   - RFC
   - IETF
