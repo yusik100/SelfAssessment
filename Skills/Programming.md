@@ -4,26 +4,26 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm u
-  - Syntax u
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
   - Semantics
   - Abstraction
-  - Paradigm h
-  - Programm u
-  - Programming paradigm h
-  - Programming language u
+  - Paradigm: 👂 heard
+  - Programm: 🖐️ used
+  - Programming paradigm: 👂 heard
+  - Programming language: 🖐️ used
   - Contract
   - Module
-  - Library h
+  - Library: 👂 heard
   - Package
   - Component
   - Framework
   - Platform
   - Source code
   - Object code
-  - Machine code h
+  - Machine code: 👂 heard
   - Microcode
-  - Software engineering h
+  - Software engineering: 👂 heard
   - Decomposition
   - Control flow
   - Data flow
@@ -32,26 +32,26 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value u
-  - Identifier u
-  - Variable u
-  - Constant u
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
   - Scalar
-  - Literal u
+  - Literal: 🖐️ used
   - Expression
   - Heap
-  - Function u
+  - Function: 🖐️ used
   - Procedure
-  - Method u
+  - Method: 🖐️ used
   - Class
   - Prototype
   - Event
-  - Type u
+  - Type: 🖐️ used
   - Flag
-  - Lexical scope k
-  - Code block u
-  - Conditions u
-  - Loops u
+  - Lexical scope: 🎓 known
+  - Code block: 🖐️ used
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
   - Assignment
   - Regular expression
   - Interface
@@ -59,14 +59,14 @@
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case u
-  - Snake case u
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
   - Kebab case
-  - Trailing commas h
+  - Trailing commas: 👂 heard
   - Return early
   - Fail-fast
 - Types
-  - Primitive types u
+  - Primitive types: 🖐️ used
   - Reference types
   - Type systems
   - Strong typing
@@ -82,18 +82,18 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument k
-  - Parameter k
+  - Argument: 🎓 known
+  - Parameter: 🎓 known
   - Pure function
   - Lambda expression
   - Side effects
-  - Closure k
+  - Closure: 🎓 known
   - Partial application
   - Currying
   - Higher order
-  - Recursion 
+  - Recursion
   - Tail call optimisation
-  - Callback h
+  - Callback: 👂 heard
   - Listener
   - Composition
   - Pipe
@@ -105,15 +105,15 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array u
-  - Structure h
+  - Array: 🖐️ used
+  - Structure: 👂 heard
   - Record
   - Enum
   - Instance
-  - Object u
-  - Collection h
-  - Set h
-  - Hash table h
+  - Object: 🖐️ used
+  - Collection: 👂 heard
+  - Set: 👂 heard
+  - Hash table: 👂 heard
   - Linked list
   - Doubly list
   - Unrolled list
@@ -123,7 +123,7 @@
   - Deque
   - Tree
   - Graph
-  - Iterator u
+  - Iterator: 🖐️ used
   - Mutable state
   - Immutable state
   - Serialization
@@ -138,11 +138,11 @@
   - IPv4
   - IPv6
   - NAT
-  - URL k
+  - URL: 🎓 known
   - URN
   - URI
 - Process and tools
-  - Compiler u
+  - Compiler: 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -157,15 +157,15 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger u
+  - Debugger: 🖐️ used
   - Tracing
   - Garbage collection
   - Refactoring
   - Code review
   - Exception
   - Unittesting
-  - git u
-  - Github u
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
@@ -209,20 +209,20 @@
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers h
+  - Drivers: 👂 heard
   - Kernel
   - Ring
   - Virtual memory
-  - File system h
-  - Linux k
-  - Unix h
+  - File system: 👂 heard
+  - Linux: 🎓 known
+  - Unix: 👂 heard
   - BSD
-  - MacOS k
-  - Windows u
+  - MacOS: 🎓 known
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII h
+  - ASCII: 👂 heard
   - Escape sequence
   - RFC
   - IETF
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8 h
+  - UTF-8: 👂 heard
   - W3C
   - ODMG
